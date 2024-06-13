@@ -5,7 +5,7 @@ html, body {
     background: fixed;
 }
 
-body {
+html,body {
     background-image: url(https://c0.wallpaperflare.com/preview/534/41/125/school-books-young-adult-education.jpg);
     background-size: cover;
     background-repeat: no-repeat;
